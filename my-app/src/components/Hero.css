@@ -1,0 +1,35 @@
+.heroContent{
+     display: flex;
+     flex-direction: column;
+     gap: 36px;
+}
+h1{
+    font-weight:800px;
+    line-height:102px;
+    font-size: 108px;
+}
+
+p{
+    font-weight: 600px;
+    color: var(--grey)
+}
+
+.hero-btn{
+    display: flex;
+    gap:45px;
+}
+
+.secondary-btn{
+    background: transparent;
+    color: var(--grey);
+    border:1px solid grey;
+}
+
+.shopping p {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.brand_image {
+  display: flex;
+  gap: 25px;
+}

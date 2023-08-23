@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Oswald&family=Poppins:ital,wght@1,400;1,600&family=Roboto:wght@700&display=swap');
+*{
+    margin:0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background: radial-gradient(#b89af0, #a5edd0);
+}
+
+:root{
+    --red:rgb(202, 8, 8);
+    --grey: rgb(46, 45, 45);
+}
+
